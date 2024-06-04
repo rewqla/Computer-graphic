@@ -1,0 +1,11 @@
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\bin\Debug\OpenGL12.exe.config
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\bin\Debug\OpenGL12.exe
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\bin\Debug\OpenGL12.pdb
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\bin\Debug\OpenTK.dll
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\bin\Debug\OpenTK.pdb
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\bin\Debug\OpenTK.xml
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\obj\Debug\OpenGL8_2.csproj.AssemblyReference.cache
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\obj\Debug\OpenGL8_2.csproj.CoreCompileInputs.cache
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\obj\Debug\OpenGL12.exe
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\obj\Debug\OpenGL12.pdb
+E:\yura\university\3\графіка\OpenGL8_2\OpenGL12\obj\Debug\OpenGL8_2.csproj.Up2Date
